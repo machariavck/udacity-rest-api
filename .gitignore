@@ -32,7 +32,6 @@ plugins/ios.json
 $RECYCLE.BIN/
 postgres_dev/
 logfile
-src/**/config*
 mock/
 
 .DS_Store
